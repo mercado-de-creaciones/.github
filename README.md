@@ -81,9 +81,17 @@ Nos enorgullece nuestra diversidad, ya que nos ha permitido explorar una varieda
 ## Tecnologías Utilizados 👨🏻‍💻
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,figma,typescript,tailwind,github,html,js,mysql,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,figma,typescript,npm,tailwind,jest,github,html,js,docker,nodejs,mysql,vscode&perline=14" />
   </a>
 </p>
+
+## Tecnologías de Producción 👨🏻‍💻
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=netlify,planetscale" />
+  </a>
+</p>
+
 <hr>
 <p>Estado de proyecto: <b style="background: rgb(0, 72, 226);
             border-radius:25px;
