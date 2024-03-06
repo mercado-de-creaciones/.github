@@ -1,38 +1,4 @@
-<style>
-        *{
-            font-family:system-ui,sans-serif;
-        }
-        .img-perfil{
-        width: 70px;
-        height: 100%;
-        border-radius: 50%;
-        border: 3px solid rgb(0, 72, 226);
-        box-shadow: 0px 0px 1rem -.4rem rgb(0, 72, 226),
-        0px 0px 1rem -.4rem rgb(0, 72, 226,50%);
-        }
-        .pd-small-1{
-            padding:.5rem;
-        }
-    
-        .d-flex{
-            display:flex;
-        }
-        .j-content-center{
-            justify-content: center;
-        }
-        .w-full{
-            with:100%;
-        }
-        .etiqueta_estado{
-            background: rgb(0, 72, 226);
-            border-radius:25px;
-            color:white;
-            font-weight: 400;
-            padding: .1rem .5rem;
-            box-shadow: 0px 5px 1rem -0.5rem rgb(0, 72, 226),
-            0px 10px 1rem -0.5rem rgb(0, 72, 226,50%);
-        }
-    </style>
+
 # Mercado De Creaciones Presentación
 
 
@@ -91,15 +57,24 @@ Nos enorgullece nuestra diversidad, ya que nos ha permitido explorar una varieda
 
 ## Equipo de Proyecto
 
+<!-- |Nombres| Perfil GitHub|
+|-------|--------------------------------------------|
+|Justin | [justin-A18](https://github.com/justin-A18)|
+|Moises | [jkMoises](https://github.com/jkMoises)|
+|Hugo | [HunigoleSan](https://github.com/HunigoleSan)| -->
+
 <p align="center">
     <a title="Justin-A18" class="pd-small-1" href="https://github.com/justin-A18">
-        <img class ="img-perfil" src ="https://github.com/justin-A18.png"/>
+        <img style="width: 70px;height: 100%;border-radius: 50%;border: 4px solid rgb(0, 72, 226);box-shadow: 0px 0px 1rem -.4rem rgb(0, 72, 226),
+        0px 0px 1rem -.4rem rgb(0, 72, 226,50%);" src ="https://github.com/justin-A18.png"/>
     </a>
     <a title="jkMoises" class="pd-small-1" href="https://github.com/jkMoises">
-        <img class ="img-perfil" src ="https://github.com/jkMoises.png"/>
+        <img style="width: 70px;height: 100%;border-radius: 50%;border: 4px solid rgb(0, 72, 226);box-shadow: 0px 0px 1rem -.4rem rgb(0, 72, 226),
+        0px 0px 1rem -.4rem rgb(0, 72, 226,50%);" src ="https://github.com/jkMoises.png"/>
     </a>
-    <a title="HunigoleSan" class="pd-small-1" href="https://github.com/HunigoleSan">
-        <img class ="img-perfil" src ="https://github.com/HunigoleSan.png"/>
+    <a title="HunigoleSan" href="https://github.com/HunigoleSan">
+        <img style="width: 70px;height: 100%;border-radius: 50%;border: 4px solid rgb(0, 72, 226);box-shadow: 0px 0px 1rem -.4rem rgb(0, 72, 226),
+        0px 0px 1rem -.4rem rgb(0, 72, 226,50%);" src ="https://github.com/HunigoleSan.png"/>
     </a>
 </p>
 
@@ -110,8 +85,13 @@ Nos enorgullece nuestra diversidad, ya que nos ha permitido explorar una varieda
   </a>
 </p>
 <hr>
-
-<p>Estado de proyecto: <b class="etiqueta_estado">En Desarrollo</b></p>
+<p>Estado de proyecto: <b style="background: rgb(0, 72, 226);
+            border-radius:25px;
+            color:white;
+            font-weight: 400;
+            padding: .1rem .5rem;
+            box-shadow: 0px 5px 1rem -0.5rem rgb(0, 72, 226),
+            0px 10px 1rem -0.5rem rgb(0, 72, 226,50%);">En Desarrollo</b></p>
 
 
 
